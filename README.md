@@ -1,6 +1,6 @@
 # figma
 
-A new Flutter project.
+Proyecto entregado por Jhon Jaime Rodriguez Ramirez.
 
 ## Getting Started
 
